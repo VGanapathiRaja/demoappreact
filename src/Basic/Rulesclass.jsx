@@ -17,7 +17,7 @@ export default class Rulesclass extends Component {
         Rulesclass
         <h1>Class Component</h1>
         {/* <button onClick={()=>{this.funcName2}}>btn</button> */}
-        <button onClick={this.funcName1}>btn</button>
+        <button onClick={this.funcName1}>btn s</button>
       </div>
     )
   }

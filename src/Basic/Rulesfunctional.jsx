@@ -14,17 +14,17 @@ export default function Rulesfunctional() {
     }
 
     // let isValid=true;
-    let isValid=false;
-    if(isValid){
-        alert("working");
-    }
-    else{
-        alert("Not working");
-    }
+    // let isValid=false;
+    // if(isValid){
+    //     alert("working");
+    // }
+    // else{
+    //     alert("Not working");
+    // }
 
-    for(let i=0; i<=3; i++){
-        alert("Hi team");
-    }
+    // for(let i=0; i<=3; i++){
+    //     alert("Hi team");
+    // }
 
 
   return (
